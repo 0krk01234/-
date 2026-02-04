@@ -6,6 +6,7 @@ public class Main {
         //codeสุนิตาของอังคาร
         Scanner i = new Scanner(System.in);
         System.out.println("อังคารรักเฟรม");
+        System.out.println("");
         i.close();
        
         //code
