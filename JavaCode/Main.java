@@ -3,7 +3,17 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        //code
-        //code
+        
+        Scanner input = new Scanner(System.in);
+
+        System.out.print(" Enter ID nakren : ");
+        String ID = input.nextLine();
+
+        System.out.print("Enter Name nakren : ");
+        String Name = input.nextLine();
+            
+        Class nakren = new Class(ID , Name) ;
+
+
     }
 }
