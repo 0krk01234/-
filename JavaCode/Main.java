@@ -8,6 +8,7 @@ public class Main {
         System.out.println("อังคารรักเฟรม");
         System.out.println("อังคารรักต้น");
         System.out.println("อังคารรักแชมป์");
+        System.out.println("");
         i.close();
        
         //code
