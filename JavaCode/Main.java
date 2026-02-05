@@ -16,7 +16,11 @@ public class Main {
         int Age = input.nextInt();
         input.nextLine();
 
-        Class nakren = new Class(ID , Name , Age) ;
+        System.out.print("Enter Name class : ");
+        int state = input.nextInt();
+        input.nextLine();
+
+        Class nakren00 = new Class(ID , Name , Age ,state) ;
 
 
     }

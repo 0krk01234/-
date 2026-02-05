@@ -18,7 +18,15 @@ public class Class {
         System.out.println("idnakren : " + ID );
         System.out.println("Namenakren : " + Name );
         System.out.println("Ayunakren : " + Age );
-        System.out.println("cless : " + state );
-        
+        System.out.println("RakBeer");
+                System.out.println("RakBeer");
+                        System.out.println("RakBeer");
+                                System.out.println("RakBeer");
+                                        System.out.println("RakBeer");
+                                                System.out.println("RakBeer");
+                                                        System.out.println("RakBeer");
+                                                                System.out.println("RakBeer");
+                        System.out.println("RakBeer");
+
     }
 }
