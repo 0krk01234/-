@@ -18,6 +18,9 @@ public class Main {
 
         Class nakren = new Class(ID , Name , Age) ;
 
+        System.out.println("Sawaddee");
+        System.out.println("Gayaungkanr");
+
 
     }
 }
