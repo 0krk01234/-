@@ -5,6 +5,7 @@ public class Puchaychamp {
         Scanner i = new Scanner(System.in);
         
         System.out.println("แชมป์เป็นผู้ชายตัวจริงเสียงจริง");
+        System.out.println("g[upiNiydvy'8kiเป็นผู้ชายตัวจริงเสียงจริง");
         //เพื่อนผมเป็นเพศอะไร
     }
 }
