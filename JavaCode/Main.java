@@ -22,5 +22,10 @@ public class Main {
         System.out.println("Gayaungkanr");
 
 
+        System.out.print("Enter Name Age : ");
+        System.out.print("Enter Name Age : ");
+        System.out.print("Enter Name Age : ");
+        System.out.print("Enter Name Age : ");
+        System.out.print("Enter Name Age : ");
     }
 }
