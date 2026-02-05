@@ -18,6 +18,10 @@ public class Main {
 
         Class nakren = new Class(ID , Name , Age) ;
 
-
+        System.out.print("Enter Name Age : ");
+        System.out.print("Enter Name Age : ");
+        System.out.print("Enter Name Age : ");
+        System.out.print("Enter Name Age : ");
+        System.out.print("Enter Name Age : ");
     }
 }
