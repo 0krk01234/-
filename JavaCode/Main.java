@@ -16,7 +16,7 @@ public class Main {
         int Age = input.nextInt();
         input.nextLine();
 
-        Class nakren = new Class(ID , Name , Age) ;
+        Class nakren00 = new Class(ID , Name , Age) ;
 
 
     }
