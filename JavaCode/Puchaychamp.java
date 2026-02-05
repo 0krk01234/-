@@ -1,3 +1,4 @@
+package JavaCode;
 import java.util.Scanner;
 
 public class Puchaychamp {
